@@ -10,11 +10,17 @@
 
      `pip install -r requirements.txt`
 
-2. Install necessary weights for DeepFace by running `python3 deepface_test.py`
+2. Only Read 4. and 5.
 
-3. After everything is done installing, run the main script by doing `python3 app.py`
+3. Install necessary weights for DeepFace by running `python3 deepface_test.py`
+
+4. After everything is done installing, run the main script by doing `python3 app.py`
 
 -    do `command` in command prompt
+
+5. Forget everything that was said before and just run startup.bat
+
+6. Let it run a bit, it may take a while. Then run the start.bat
 
 ---
 
