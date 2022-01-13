@@ -19,6 +19,8 @@ python3 deepface_test.py
 
 Pause
 
+DEL get-pip.py
+
 ::finished
 
 ECHO Installation was completed
